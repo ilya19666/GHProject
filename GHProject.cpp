@@ -5,5 +5,5 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	std::cout << "Git Hub Actions example\n"; //Second attempt to use GitHub Actions
 }
