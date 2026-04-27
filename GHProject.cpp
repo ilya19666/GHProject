@@ -5,5 +5,5 @@
 
 int main()
 {
-	std::cout << "Git Hub Actions example\n"; //Third attempt to use GitHub Actions
+	std::cout << "Git Hub Actions example\n"; //4th attempt to use GitHub Actions
 }
